@@ -1,0 +1,6 @@
+name = "SIDECubitAxis"
+version = "0.1.0"
+defaultTargets = ["SIDECubitAxis"]
+
+[[lean_lib]]
+name = "SIDECubitAxis"
